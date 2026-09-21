@@ -64,3 +64,33 @@ public class LaporanKebakaranHutan extends LaporanKebakaran {
         System.out.println("Tingkat Bahaya: " + tingkatBahaya);
     }
 }
+
+**Tangkapan Layar saat Running Program**
+
+1. Menu Utama
+   
+   <img width="254" height="83" alt="Screenshot 2026-09-21 213326" src="https://github.com/user-attachments/assets/a287143d-d230-4e88-8c59-c21257cdb3bf" />
+
+2. Menu Create
+  
+   <img width="385" height="197" alt="Screenshot 2026-09-21 213422" src="https://github.com/user-attachments/assets/8ec6c236-16a9-4cac-801b-6f18351b0291" />
+
+3. Menu Read
+     
+   <img width="325" height="148" alt="Screenshot 2026-09-21 213438" src="https://github.com/user-attachments/assets/328c65bb-2602-4942-928e-ae58074b3f31" />
+
+4. Menu Update
+        
+   <img width="469" height="200" alt="Screenshot 2026-09-21 213538" src="https://github.com/user-attachments/assets/9d342f5e-1c4c-46be-a875-5d9e04497e0a" />
+
+ 5. Menu Delete
+ 
+ <img width="422" height="255" alt="Screenshot 2026-09-21 213554" src="https://github.com/user-attachments/assets/0ab2e63e-89cc-41de-b621-96e5dc130049" />
+
+ 6. Menu Exit
+
+    <img width="422" height="255" alt="Screenshot 2026-09-21 213554" src="https://github.com/user-attachments/assets/207daecf-6151-451d-9e72-b55f2f20575a" />
+
+
+
+
